@@ -1,2 +1,2 @@
-hello this is mumbai server
-you have to use access tokens now instead of password
+you have to gennerate that token from github
+in setting you will find developer setting and then personal access tokens
